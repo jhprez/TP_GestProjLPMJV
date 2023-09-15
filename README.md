@@ -1,5 +1,5 @@
 # TP_GestProjLPMJV
-
+Archambaud Felipe l3D
 
 
 Premier commit ...
@@ -61,3 +61,9 @@ Luna Sommaro LD
 Perrain Jérémy LPI3D
 
 Maxence Bartoli LD
+
+Erwann VL I3D
+
+Janin Sarah I3D
+
+Eva Klein I3D
